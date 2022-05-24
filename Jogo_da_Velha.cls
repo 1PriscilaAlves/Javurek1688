@@ -1,3 +1,5 @@
 _0_|_x_|_0_
 _x_|_0_|_0_
  0 | x |x
+
+ Empate?? Bora desempatar?
